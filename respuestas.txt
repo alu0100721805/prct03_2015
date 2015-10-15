@@ -1,1 +1,3 @@
 Respuestas a las preguntas de la práctica 3
+¿Cuál es el propósito de trabajar con múltiples ramas?
+El propósito es tener la flexibilidad de establecer varios flujos de trabajos de forma simultanéa con la opción de recuperación del estado inicial o anterior si en algunos de esos flujos de trabajos se producen errores o simplemente se quieren considerar otras alternativas paritendo del estado anterior.
